@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rsy-learner
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning 
